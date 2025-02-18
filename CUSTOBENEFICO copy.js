@@ -15,8 +15,8 @@ class produto {
 let custoben = {}
 const produtoF = [
 
-    (new produto("3 especial \"dourado\"", "1kg", 139.90)),
-    (new produto("3 rituais sul de minas", "500g", 78.90)),
+    (new produto("3 <3 especial \"dourado\"", "1kg", 139.90)),
+    (new produto("3 <3 rituais sul de minas", "500g", 78.90)),
     (new produto("Baggio bourbon", "250g", 27.49)),
     (new produto("Black tucano Honney", "250g", 33.23)),
     (new produto("Orfeu classic", "1kg", 106.76)),
